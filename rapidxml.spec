@@ -2,7 +2,7 @@ Summary:	RapidXML - fast XML parser written in C++
 Summary(pl.UTF-8):	RapidXML - szybki parser XML napisany w C++
 Name:		rapidxml
 Version:	1.13
-Release:	1
+Release:	2
 License:	Boost Software License v1.0 or MIT
 Group:		Development/Libraries
 Source0:	http://downloads.sourceforge.net/rapidxml/%{name}-%{version}.zip
